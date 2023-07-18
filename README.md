@@ -23,3 +23,7 @@
 ![Quantastic Results](quantastic_assets/quantastic_results.png)
 
 <br>
+
+
+# University Wiki Entry
+http://cscp2.sogang.ac.kr/CSE4186/index.php/Quantastic
