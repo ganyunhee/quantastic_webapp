@@ -7,17 +7,19 @@
 - Backtesting Web Application platform
 - Project for Capstone Design I (CSE4186)
 
-
+<br>
 
 # UI Assets
 ![Quantastic UI Components](quantastic_assets/quantastic_figma_ui_components.png)
 
-
+<br>
 
 # Project Structure
 ![Quantastic Project Structure](quantastic_assets/quantastic_project_structure.png)
 
-
+<br>
 
 # Sample Output
 ![Quantastic Results](quantastic_assets/quantastic_results.png)
+
+<br>
