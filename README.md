@@ -32,6 +32,10 @@
 
 <br>
 
-
 # University Wiki Entry
 http://cscp2.sogang.ac.kr/CSE4186/index.php/Quantastic
+
+<br>
+
+# Figma File
+https://www.figma.com/file/UBDCIVNsIza1FmCv7MjWAH/Quantastic-Web-App-Wireframe?type=design&node-id=0%3A1&mode=design&t=d6tuWXB3pjjeP12Q-1
